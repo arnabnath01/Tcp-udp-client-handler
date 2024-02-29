@@ -1,7 +1,5 @@
 
-// ARNAB NATH
-// 21CS8131
-// ASSIGNMENT 4
+
 
 
 #include <stdio.h>
