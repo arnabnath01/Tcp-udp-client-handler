@@ -23,6 +23,7 @@ This repository contains a simple UDP and TCP server implementation in C that ch
     ```bash
     ./server &
     ```
+![image](https://github.com/arnabnath01/Tcp-udp-client-handler/assets/98618274/52ea9f1d-0e47-46ee-a919-205115c27edb)
 
     
 
@@ -31,14 +32,16 @@ This repository contains a simple UDP and TCP server implementation in C that ch
     ```bash
     ./udp_client
     ```
+![image](https://github.com/arnabnath01/Tcp-udp-client-handler/assets/98618274/7a5cb99b-17fb-4aa4-abf1-860f2e8730d7)
 
 4. Run the TCP client:
 
     ```bash
     ./tcp_client
     ```
+![image](https://github.com/arnabnath01/Tcp-udp-client-handler/assets/98618274/6ff9d8ad-1797-4e11-949d-c422547a9bd0)
 
-Make sure to run the server in the background before running the clients. Adjust the IP address and port number if needed. The provided example assumes the server and clients are running on the same machine with port 8080.
+Make sure to run the server in the background before running the clients. Adjust the IP address and port number if needed. The provided example assumes the server and clients are running on the same machine with port 5000.
 
 ## Notes
 
